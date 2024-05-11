@@ -45,7 +45,3 @@ python main.py
 ```
 
 This will demonstrate the usage of both Python and Cython implementations and measure their running time.
-
----
-
-This README provides an overview of the project structure and instructions for running the code. For detailed explanations of each function and its implementation, refer to the respective Python (`matrix_operations.pyx`) and Cython (`cython_matrix.pyx`) files.
